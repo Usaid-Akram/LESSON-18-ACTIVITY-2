@@ -1,0 +1,79 @@
+
+body {
+    position: relative;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding-top: 56px;
+}
+
+.navbar {
+    background-color: #1b4332;
+}
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover,
+.nav-link.active {
+    background-color: #40916c;
+    border-radius: 5px;
+}
+.carousel {
+    margin-top: 0;
+}
+.slide {
+    min-height: 300px;
+    text-align: center;
+    padding: 90px 20px;
+    color: white;
+}
+.slide h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.slide-one {
+    background-color: #2d6a4f;
+}
+.slide-two {
+    background-color: #52796f;
+}
+.slide-three {
+    background-color: #8a6d3b;
+}
+section {
+    padding: 50px 20px;
+    margin-top: 25px;
+    text-align: center;
+    border-radius: 5px;
+    scroll-margin-top: 75px;
+}
+section h2 {
+    color: #1b4332;
+    margin-bottom: 15px;
+}
+.home-section {
+    background-color: #d8f3dc;
+}
+.about-section {
+    background-color: #b7e4c7;
+}
+.contact-section {
+    background-color: #f4e1c1;
+}
+.footer {
+    background-color: #1b4332;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.footer p {
+    margin: 5px;
+}
+
+
